@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working as a Software Engineering intern at Autodesk.
+Currently in my third year in UofG
 
 📫 How to reach me: nikitin.ivan.dev@gmail.com
