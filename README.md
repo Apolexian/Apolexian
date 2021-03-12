@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Currently in my third year in UofG
-
 📫 How to reach me: nikitin.ivan.dev@gmail.com
